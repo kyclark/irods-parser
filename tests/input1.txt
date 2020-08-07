@@ -1,0 +1,6 @@
+/iplant/home/kyclark/project:
+  C- /iplant/home/rwalls/ua-src-data/sample
+/iplant/home/kyclark/project/sample:
+  data.xlsx
+  data.csv
+  README.md
